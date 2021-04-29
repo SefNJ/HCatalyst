@@ -6,7 +6,7 @@
 
 * The application will seed the database with 16 entries.  Once the application is running you can then run the Powershell script.  Execute the Powershell script in the following manner:
 
-     powershell -executionpolicy bypass "TestAPI.ps1"
+     powershell -executionpolicy bypass ".\TestAPI.ps1"
 
 The parameters allows an unsigned script to run.  The "TestAPI.ps1" file will be in the same folder as the HCatalyst.csproj file.
 
