@@ -8,7 +8,7 @@
 
      powershell -executionpolicy bypass "TestAPI.ps1"
 
-The parameters allows an unsigned script to run.  Tee "TestAPI.ps1" file will be in the same folder as the HCatalyst.csproj file.
+The parameters allows an unsigned script to run.  The "TestAPI.ps1" file will be in the same folder as the HCatalyst.csproj file.
 
 * Automated integration testing has been created for the REST APIs.  The test functions require the application to run.  You can do this by going to the command prompt when the HCatalyst.csproj is located.  Then execute the statement "dotnet run" for the automated tests.
 
