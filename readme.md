@@ -2,7 +2,7 @@
 
 * This repository contains the technical challenge project.  It was developed using Visual Studio 2019 version 16.9.4 with the target framework of .NET Core 5.0.
 
-* This project used the in memory Entity Framework for its database functionality.  The swagger documentation will appear when the application starts.  It is expected that the application will run within Visual Studio.
+*  Once the HCatalystTest.csproj is downloaded from Github, you can open the HCatalyst.sln.  It is expected that the application will run from within Visual Studio.  This project used the in memory Entity Framework for its database functionality.  The swagger documentation will appear when the application starts
 
 * The application will seed the database with 16 entries.  Once the application is running you can then run the Powershell script.  Execute the Powershell script in the following manner:
 
